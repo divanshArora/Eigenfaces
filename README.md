@@ -5,3 +5,5 @@ Eigenfaces for Yale faces. Learn three different PCA representations (usage of i
 allowed) on these images by preserving 90%, 95% and 99% eigenenergy respectively.
 
 Visualize (as images) the top eigenvectors in the PCA projection matrix
+
+![alt text](https://github.com/divanshArora/Eigenfaces/blob/master/face.png)
